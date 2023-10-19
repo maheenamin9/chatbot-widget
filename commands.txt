@@ -1,0 +1,2 @@
+npm run build -- --base=http://localhost:3001/
+PORT=3001 npx serve dist
